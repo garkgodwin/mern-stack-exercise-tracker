@@ -24,8 +24,8 @@ npm start
 
 ## Technologies
 1. Javascript
-  1. NodeJS
-  2. ReactJS
-  3. Express
+    -- NodeJS
+    -- ReactJS
+    -- Express
 2. MongoDB Atlas
 3. Youtube
