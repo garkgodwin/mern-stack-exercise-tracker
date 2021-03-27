@@ -23,13 +23,10 @@ npm start
 <p>You can check them out on package.json files in each folders: Client and Server</p>
 
 ## Technologies
-1. Javascript
+1. MongoDB Atlas
+2. Javascript
 <ul>
 <li>NodeJS</li>
 <li>Express</li>
 <li>ReactJS</li>
-</ul>
-2. MongoDB Atlas
-<ul>
-  
 </ul>
