@@ -3,14 +3,14 @@
 
 ## Commands
 
-# Client side
+### Client ###
 ```sh
 cd client
 npx create-react-app ./
 npm start
 ```
 
-# Server side
+### Server ###
 ```sh
 cd server
 npm init -y
@@ -18,6 +18,14 @@ npm start
 ```
 
 
-## Note
+## Note ##
 <p color="gray">Before starting client and server, please make sure to install the necessary libraries for this project</p>
 <p>You can check them out on package.json files in each folders: Client and Server</p>
+
+## Technologies
+1. Javascript
+  1. NodeJS
+  2. ReactJS
+  3. Express
+2. MongoDB Atlas
+3. Youtube
