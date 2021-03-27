@@ -23,8 +23,8 @@ npm start
 <p>You can check them out on package.json files in each folders: Client and Server</p>
 
 ## Technologies
-<ul>
 1. Javascript
+<ul>
 <li>NodeJS</li>
 <li>Express</li>
 <li>ReactJS</li>
